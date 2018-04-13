@@ -1,9 +1,3 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/activity?characterEncoding=utf8&useSSL=true
-    username: root
-    password: qazwsx123
-    driver-class-name: com.mysql.jdbc.Driver
 pc:
   user-name: pc
-  pass-word:qazwsx123
+  pass-word: qazwsx123
