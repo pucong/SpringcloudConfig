@@ -7,3 +7,5 @@ spring:
     username: root
     password: qazwsx123
     driver-class-name: com.mysql.jdbc.Driver
+server:
+  port: 8764
